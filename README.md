@@ -1,2 +1,2 @@
 # Python-Fundamentos
-Repositório do curso Python fundamentos.
+Repositório de minhas práticas no curso Python fundamentos.
